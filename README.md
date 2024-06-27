@@ -4,7 +4,7 @@ My research lies at the intersection of Robotics and Machine Learning. I aim to 
 
 - 🔭 I’m a Ph.D. Student at TU Darmstadt, advised by Prof. [Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters).
 - 🤖 I’m currently playing around with learning robot motor skills from heterogeneous expert data.
-- 🌱 I'm playing around with entropic OT in various ML problems.
+- 🌱 I'm having fun with entropic OT in various ML problems.
 - :whale: Batching robotics planning problems? GPUs come to the rescue :D
 
 💬 [Hit me up](mailto:an@robot-learning.de) for a chat :)
