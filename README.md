@@ -1,13 +1,13 @@
 # Hi! I’m An 👋
 
-My research sits at the intersection of **Robotics** and **Machine Learning**. I aim to **scale robot planning** to long-horizon tasks, high-dimensional state spaces, large plan sets, and multi-agent settings.
+My research sits at the intersection of **Robotics** and **Machine Learning**. I aim to **scale robot learning & planning** to long-horizon tasks, high-dimensional state spaces, large plan sets, and multi-agent settings.
 
 ---
 
 ## Selected papers & preprints
-- **Model Tensor Planning** — *ICLR 2026 (conf.)* / *TMLR 2025 (journal)*  
+- **Model Tensor Planning** — *ICLR 2026* / *TMLR 2025*  
 - **Global Tensor Motion Planning** — *IEEE RA-L 2025*  
-- **Motion Planning Diffusion** — *IEEE T-RO 2025 (journal)*, *IROS 2023 (conf.)*  
+- **Motion Planning Diffusion** — *IEEE T-RO 2025*, *IROS 2023*  
 - **Accelerating Motion Planning via Optimal Transport** — *NeurIPS 2023*  
 - …and more in OT, diffusion models for planning, and VLA for manipulation.
 
