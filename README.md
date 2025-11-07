@@ -1,12 +1,26 @@
-### Hi! I am An 👋
+# Hi! I’m An 👋
 
-My research lies at the intersection of Robotics and Machine Learning. I aim to scale robot planning to a long-horizon, high-dimensional state space, number of plans, and number of agents.
+My research sits at the intersection of **Robotics** and **Machine Learning**. I aim to **scale robot planning** to long-horizon tasks, high-dimensional state spaces, large plan sets, and multi-agent settings.
 
-- 🔭 I’m a Ph.D. Student at TU Darmstadt, advised by Prof. [Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters).
-- 🤖 I’m currently playing around with learning robot motor skills from heterogeneous expert data.
-- 🌱 I'm having fun with entropic OT in various ML problems.
-- :whale: Batching robotics planning problems? GPUs come to the rescue :D
+---
 
-💬 [Hit me up](mailto:an@robot-learning.de) for a chat :)
+## Selected papers & preprints
+- **Model Tensor Planning** — *ICLR 2026 (conf.)* / *TMLR 2025 (journal)*  
+- **Global Tensor Motion Planning** — *IEEE RA-L 2025*  
+- **Motion Planning Diffusion** — *IEEE T-RO 2025 (journal)*, *IROS 2023 (conf.)*  
+- **Accelerating Motion Planning via Optimal Transport** — *NeurIPS 2023*  
+- …and more in OT, diffusion models for planning, and VLA for manipulation.
+
+---
+
+## Interests & keywords
+Vectorized robot learning & planning • OT & gradient flows • Humanoid loco-manipulation • VLA/VLM for grasping & manipulation
+
+---
+
+## Links
+- 🌐 Website: **[anthaile.com](https://anthaile.com)**
+- 💌 Email: **an@robot-learning.de**
+- 🐦 Twitter/X: **[@an_thai_le](https://twitter.com/an_thai_le)**
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/an_thai_le?label=Follow&style=social)](https://twitter.com/an_thai_le)
