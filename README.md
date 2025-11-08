@@ -6,10 +6,9 @@ My research sits at the intersection of **Robotics** and **Machine Learning**. I
 
 ## Selected papers & preprints
 - **Model Tensor Planning** — *ICLR 2026* / *TMLR 2025*  
-- **Global Tensor Motion Planning** — *IEEE RA-L 2025*  
-- **Motion Planning Diffusion** — *IEEE T-RO 2025*, *IROS 2023*  
+- **Global Tensor Motion Planning** — *ICRA 2026* / *IEEE RA-L 2025*  
+- **Motion Planning Diffusion** — *IROS 2023* / *IEEE T-RO 2025*
 - **Accelerating Motion Planning via Optimal Transport** — *NeurIPS 2023*  
-- …and more in OT, diffusion models for planning, and VLA for manipulation.
 
 ---
 
