@@ -4,10 +4,10 @@ My research sits at the intersection of **Robotics** and **Machine Learning**. I
 
 ---
 
-## Selected papers & preprints
+## Selected papers
 - **Model Tensor Planning** — *ICLR 2026* / *TMLR 2025*  
 - **Global Tensor Motion Planning** — *ICRA 2026* / *IEEE RA-L 2025*  
-- **Motion Planning Diffusion** — *IROS 2023* / *IEEE T-RO 2025*
+- **Motion Planning Diffusion** — *IROS 2023* / *IEEE T-RO 2025* / *AAAI 2026*
 - **Accelerating Motion Planning via Optimal Transport** — *NeurIPS 2023*  
 
 ---
