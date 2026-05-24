@@ -32,5 +32,5 @@ Vectorized robot learning & planning · Tensor search / batched optimization · 
 ## Links
 - 🌐 LinkedIn: [@anindex](https://www.linkedin.com/in/anindex/)
 - 🐦 Twitter/X: [@an_thai_le](https://twitter.com/an_thai_le)
-- 🎓 Google Scholar: [An Thai Le](https://scholar.google.com/scholar?q=An+Thai+Le+robotics+motion+planning)
+- 🎓 Google Scholar: [An Thai Le](https://scholar.google.com/citations?user=k0r0tfUAAAAJ)
 - 💌 Email: [an@robot-learning.de](mailto:an@robot-learning.de)
