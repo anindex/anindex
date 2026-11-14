@@ -41,7 +41,7 @@ On weekends, I write JAX/PyTorch simulators for curved spacetimes (Kerr black ho
 
 ### Machine Learning
 - [**Training Non-Differentiable Networks via Optimal Transport**](https://openreview.net/forum?id=8mlcqTTMuU), TMLR 2026 · [code](https://github.com/anindex/polystep)
-- [**AAC: Admissible-by-Architecture Differentiable Landmark Compression for ALT**](https://arxiv.org/abs/2604.20744), TMLR 2026 · [code](https://github.com/anindex/aac)
+- [**AAC: Admissible-by-Architecture Differentiable Landmark Compression for ALT**](https://arxiv.org/abs/2604.20744), TMLR 2026 (Reproducibility Certification) · [code](https://github.com/anindex/aac)
 
 ### Numerical Physics (GR)
 - [**Rarity of rocket-driven Penrose extraction in Kerr spacetime**](https://doi.org/10.1103/f3jn-7wcp), Physical Review D 2026 · [code](https://github.com/anindex/penrose_process)
